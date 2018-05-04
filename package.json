@@ -482,7 +482,6 @@
     }, 
     "name": "FriendFinder",
     "version": "1.0.0",
-    "description": "Match with new friends",
     "main": "server.js",
     "dependencies": {
       "body-parser": "^1.15.0",
